@@ -1,0 +1,10 @@
+Filld container. 
+Container contents 2 elements.
+0: c# is a object oriented programming language. Year of creating 1976
+	Multiple inheritance.
+1: C is a procedural programming language. Year of creating 2000
+	This language supports abstruct type.
+0: Language Age = 43
+1: Language Age = 19
+Empty container. 
+Container contents 0 elements.
